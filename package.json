@@ -1,0 +1,19 @@
+{
+  "name": "lianlian-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiajiabao/lianlian-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiajiabao/lianlian-file/issues"
+  },
+  "homepage": "https://github.com/jiajiabao/lianlian-file#readme"
+}
